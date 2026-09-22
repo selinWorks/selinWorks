@@ -54,7 +54,7 @@
 
 ## ˚₊‧ Featured Projects
 
-### 🐾 PetCare
+### 🐾 Animio
 
 > 🚧 **Currently in Development**
 
@@ -64,7 +64,7 @@ The application includes a rule-based risk assessment system and provides contex
 
 **Tech:** `React Native` • `TypeScript` • `Node.js` • `Express.js` • `Firebase` • `Cloud Firestore` • `OpenAI API` • `REST API`
 
-[View Repository →](https://github.com/selinkubra/PetCareAPPNew)
+[View Repository →](https://github.com/selinkubra/Animio)
 
 ---
 
