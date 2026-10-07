@@ -16,7 +16,7 @@
 
 ⚙️ Through my internships, I gained hands-on experience with **ASP.NET Core MVC** for web development and **Python & React Native** for mobile application development.
 
-☕ I’m currently exploring **Java and backend development**, expanding my knowledge of the Java ecosystem through hands-on practice.
+☕ I’m currently focused on **mobile application development**, building practical experience through real-world projects and continuously expanding my technical skills.
 
 ---
 
@@ -46,9 +46,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-7357D9?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-9D82F5?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-7C5CFC?style=for-the-badge&logo=github&logoColor=white)
-
-### Currently Exploring
-![Java](https://img.shields.io/badge/Java-8B6FF7?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
