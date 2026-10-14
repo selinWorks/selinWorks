@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="245" viewBox="0 0 1000 245" role="img" aria-label="Hi, I'm Selin. Computer Engineering Graduate. Web, mobile and data.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#181324"/><stop offset="1" stop-color="#30213f"/></linearGradient><linearGradient id="ink" x2="1"><stop stop-color="#f4e9ff"/><stop offset="1" stop-color="#d8b3f0"/></linearGradient></defs>
+<rect width="1000" height="245" rx="18" fill="url(#bg)"/>
+<circle cx="870" cy="114" r="121" fill="none" stroke="#9471ad" opacity=".19"/><circle cx="870" cy="114" r="86" fill="none" stroke="#9471ad" opacity=".24"/>
+<circle cx="879" cy="99" r="42" fill="#d7b2e6"/><circle cx="897" cy="85" r="40" fill="#30213f"/>
+<g fill="#d5aeea"><circle cx="755" cy="53" r="3"/><circle cx="961" cy="174" r="2.5"/><circle cx="731" cy="174" r="2"/></g>
+<g stroke="#d5aeea" stroke-width="1.6" opacity=".9"><path d="M754 104v18m-9-9h18"/><path d="M946 41v14m-7-7h14"/></g>
+<text x="64" y="52" fill="#bfa1d9" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">✦ HELLO, WORLD</text>
+<text x="62" y="119" fill="url(#ink)" font-family="Arial,sans-serif" font-size="56" font-weight="700">Hi, I'm Selin.</text>
+<text x="65" y="159" fill="#ead7f7" font-family="Arial,sans-serif" font-size="22">Computer Engineering Graduate</text>
+<text x="65" y="202" fill="#c8a5d9" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">WEB DEVELOPMENT  ·  MOBILE APPLICATIONS  ·  DATA</text>
+</svg>
