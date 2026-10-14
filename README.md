@@ -1,120 +1,88 @@
-<div align="center">
+<p align="center"><img src="./assets/cover.svg" width="100%" alt="Hi, I'm Selin — Computer Engineering Graduate, Web and Mobile Developer"/></p>
 
-<sub>✦ WEB · MOBILE · DATA ✦</sub>
-<h1>Hi, I'm Selin <sup>✿</sup></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Connect-B69AE5?style=for-the-badge&amp;labelColor=252035" alt="Connect on LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/selinWorks?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_work-D9AFCA?style=for-the-badge&amp;labelColor=252035" alt="Explore my repositories"/></a>
+</p>
 
-<p><b>Computer Engineering Graduate · Web & Mobile Developer</b></p>
+<br/>
 
-<p>Exploring Data Analytics &amp; Machine Learning</p>
+<h2><img src="./assets/about.svg" width="100%" alt="01 / About me"/></h2>
 
-<a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-7C5CFC?style=flat-square" alt="Connect on LinkedIn"/></a>
- 
-<a href="https://github.com/selinWorks?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-7C5CFC?style=flat-square" alt="Explore my repositories"/></a>
+<p>I'm a <b>Computer Engineering graduate</b> interested in web and mobile development, data analytics, and machine learning.</p>
+<p>Through my internships, I gained hands-on experience with <b>ASP.NET Core MVC, Python, and React Native</b>. I'm currently developing <b>Animio</b>, a pet care mobile application, and <b>ReviewLens</b>, a customer feedback analytics application.</p>
+<p>I enjoy building practical projects that connect <b>user-friendly interfaces, backend services, and data-driven insights</b>.</p>
 
+<br/>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="230" alt="Developer animation"/>
-
-
-
-
-<sub>USER-FRIENDLY INTERFACES   /   BACKEND SERVICES   /   DATA INSIGHTS</sub>
-</div>
-
-<hr/>
-
-<h2>01 / About me</h2>
-
-<p>I'm a <b>Computer Engineering graduate</b> interested in building useful applications across web and mobile, while expanding my skills in <b>data analytics and machine learning</b>.</p>
-
-<p>My internships gave me hands-on experience with <b>ASP.NET Core MVC, Python, and React Native</b>. Today, I'm putting that experience into <b>Animio</b>, a pet care mobile application, and <b>ReviewLens</b>, a customer feedback analytics application.</p>
-
-<p>I enjoy connecting intuitive interfaces with backend services—and turning ideas into practical projects.</p>
-
-
-<h2>02 / Selected projects</h2>
+<h2><img src="./assets/projects.svg" width="100%" alt="02 / Selected work"/></h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🐾 Animio</h3>
-<p><sub>PET CARE · MOBILE APPLICATION</sub></p>
-<img src="https://img.shields.io/badge/status-in_development-7C5CFC?style=flat-square&labelColor=5B4B78" alt="In development"/>
-
-<p>A pet care application that brings care management and AI-assisted support into one mobile experience.</p>
-
-<p>Combines a <b>rule-based risk assessment system</b> with contextual guidance through the <b>OpenAI API</b>.</p>
-
-<p><sub>React Native · TypeScript · Node.js · Express.js · Firebase · Cloud Firestore · OpenAI API</sub></p>
-
-<p><a href="https://github.com/selinkubra/Animio"><b>Explore Animio ↗</b></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📊 ReviewLens</h3>
-<p><sub>CUSTOMER FEEDBACK · ANALYTICS</sub></p>
-<img src="https://img.shields.io/badge/status-in_development-7C5CFC?style=flat-square&labelColor=5B4B78" alt="In development"/>
-
-<p>A customer feedback analytics application being developed to turn reviews into clear, actionable insights.</p>
-
-<p>Designed to bring together <b>review exploration, sentiment analysis, and an interactive dashboard</b> to reveal satisfaction trends and recurring issues.</p>
-
-<p><sub>Python · FastAPI · React · TypeScript · REST API</sub></p>
-
-<p><a href="https://github.com/selinWorks/reviewlens-feedback-analytics"><b>Explore ReviewLens ↗</b></a></p>
-
-</td>
+<td width="50%" valign="top"><a href="https://github.com/selinkubra/Animio"><img src="./assets/animio.svg" width="100%" alt="Animio — Pet Care Mobile Application, in development"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/selinWorks/reviewlens-feedback-analytics"><img src="./assets/reviewlens.svg" width="100%" alt="ReviewLens — Customer Feedback Analytics, in development"/></a></td>
+</tr>
+<tr>
+<td valign="top"><p>A mobile application combining <b>pet care management</b> with AI-assisted support.</p><p>Rule-based risk assessment and contextual guidance through the <b>OpenAI API</b>.</p></td>
+<td valign="top"><p>A feedback analytics application being developed to turn customer reviews into <b>actionable insights</b>.</p><p>Designed for review exploration, <b>sentiment analysis</b>, and interactive visual reporting.</p></td>
+</tr>
+<tr>
+<td valign="top"><sub>React Native · TypeScript · Node.js · Express.js<br/>Firebase · Cloud Firestore · OpenAI API</sub></td>
+<td valign="top"><sub>Python · FastAPI · React<br/>TypeScript · REST API</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/selinkubra/Animio"><b>View Animio ↗</b></a></td>
+<td><a href="https://github.com/selinWorks/reviewlens-feedback-analytics"><b>View ReviewLens ↗</b></a></td>
 </tr>
 </table>
 
+<br/>
 
-<h2>03 / My toolkit</h2>
+<h2><img src="./assets/stack.svg" width="100%" alt="03 / Tools and technologies"/></h2>
 
-<p>Technologies I work with across my projects and learning.</p>
+<p>Technologies I use across my projects and learning.</p>
 
 <h4>Languages</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-6D5A96?style=flat-square" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-6D5A96?style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-6D5A96?style=flat-square" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-6D5A96?style=flat-square" alt="JavaScript"/>
-</p>
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#"/><br/><sub>C#</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+</tr></table>
 
-<h4>Web & Mobile</h4>
+<h4>Web &amp; Mobile</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/React-6D5A96?style=flat-square" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-6D5A96?style=flat-square" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-6D5A96?style=flat-square" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-6D5A96?style=flat-square" alt="Tailwind CSS"/>
-</p>
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="42" height="42" alt="React / React Native"/><br/><sub>React / React Native</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/><br/><sub>Next.js</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/><br/><sub>Tailwind CSS</sub></td>
+</tr></table>
 
 <h4>Backend</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-6D5A96?style=flat-square" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/FastAPI-6D5A96?style=flat-square" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-6D5A96?style=flat-square" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Node.js-6D5A96?style=flat-square" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-6D5A96?style=flat-square" alt="Express.js"/>
-</p>
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt="ASP.NET Core"/><br/><sub>ASP.NET Core</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flask/flask-original.svg" width="42" height="42" alt="Flask"/><br/><sub>Flask</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/><br/><sub>Express.js</sub></td>
+</tr></table>
 
-<h4>Data & Tools</h4>
+<h4>Data &amp; Tools</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-6D5A96?style=flat-square" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-6D5A96?style=flat-square" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-6D5A96?style=flat-square" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-6D5A96?style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-6D5A96?style=flat-square" alt="GitHub"/>
-</p>
+<table><tr>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" alt="SQL Server"/><br/><sub>SQL Server</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase"/><br/><sub>Firebase</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/><br/><sub>GitHub</sub></td>
+</tr></table>
 
+<br/>
 
-<h2>04 / Let's connect</h2>
+<h2><img src="./assets/connect.svg" width="100%" alt="04 / Let's connect"/></h2>
 
-<p>Interested in web, mobile, or data projects? I'd love to connect and exchange ideas.</p>
-
-<a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Selin-7C5CFC?style=flat-square" alt="Selin on LinkedIn"/></a>
+<p>Let's connect to talk about web development, mobile applications, and data.</p>
+<a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Selin-B69AE5?style=for-the-badge&amp;labelColor=252035" alt="Selin on LinkedIn"/></a>
