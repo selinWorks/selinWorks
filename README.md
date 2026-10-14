@@ -70,6 +70,8 @@ Explore ReviewLens ↗
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=selinWorks&layout=compact&langs_count=6&hide_border=true&bg_color=191626&title_color=C4A7ED&text_color=D8CBE9" width="49%" alt="Languages used in public repositories" />
 </p>
 
+<h3 align="center">🐍 Contribution Journey</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/selinWorks/selinWorks/output/github-contribution-grid-snake-dark.svg" alt="Selin's animated purple GitHub contribution snake" width="100%" />
 </p>
