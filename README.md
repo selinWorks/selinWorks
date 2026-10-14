@@ -1,119 +1,85 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="assets/banner.png" alt="Selin's GitHub Banner" width="100%">
-</p>
-
-<!-- SOCIAL BADGES & LINKS -->
-<p align="center">
-  <a href="https://linkedin.com/in/selinkubrasimsek" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:selinkubrasimsek@example.com">
-    <img src="https://img.shields.io/badge/Email-D8B4E2?style=for-the-badge&logo=gmail&logoColor=120D20" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/selinWorks?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-241734?style=for-the-badge&logo=github&logoColor=D8B4E2" alt="Portfolio Badge"/>
-  </a>
-</p>
+<!-- Selin | GitHub profile README -->
+<p align="center"><img src="./assets/banner.png" alt="Hi, I'm Selin. Building meaningful digital experiences with code." width="100%" /></p>
 
 <p align="center">
-  <img src="assets/moon-divider.svg" alt="Moon Phase Divider" width="60%">
+  <a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-C3A3DD?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=251B35" /></a>&nbsp;
+  <a href="https://github.com/selinWorks?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-D6AFCF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=251B35" /></a>
 </p>
 
-<!-- ABOUT ME SECTION -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>✨ About Me</h2>
-      <p>I am a <strong>Computer Engineering Graduate</strong> passionate about building full-stack web, mobile, and data-driven applications. I love bridging thoughtful user experiences with robust backend architectures and intelligent systems under a midnight-purple sky.</p>
-    </td>
-    <td width="45%" valign="top">
-      <h2>✦ Interests & Focus</h2>
-      <ul>
-        <li>📱 Web & Mobile Development</li>
-        <li>⚙️ Backend & Systems Architecture</li>
-        <li>🔮 Data Analytics & Machine Learning</li>
-      </ul>
-    </td>
-  </tr>
+<p align="center"><img src="./assets/moon-divider.svg" alt="" width="85%" /></p>
+
+<h2>✦ About Me</h2>
+
+I'm a **Computer Engineering graduate** interested in building thoughtful **web and mobile applications** and exploring **data analytics and machine learning**.
+
+During my internships, I worked with **ASP.NET Core MVC, Python, and React Native**. I enjoy connecting intuitive interfaces with reliable backend services, and I'm currently developing **Animio** and **ReviewLens**.
+
+<sub>✧ Web & Mobile Development &nbsp; · &nbsp; Backend Development &nbsp; · &nbsp; Data Analytics &nbsp; · &nbsp; Machine Learning</sub>
+
+<p align="center"><img src="./assets/moon-divider.svg" alt="" width="85%" /></p>
+
+<p align="center"><img src="./assets/projects-heading.svg" alt="Featured Projects" width="100%" /></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 [Animio](https://github.com/selinkubra/Animio)
+
+<sub>**PET CARE · MOBILE APP · IN DEVELOPMENT**</sub>
+
+A pet care mobile application for organizing routines, schedules, and care information, with AI-assisted support and contextual guidance.
+
+**Built with**  
+<sub>React Native · TypeScript · Node.js · Express.js · Firebase · Cloud Firestore · OpenAI API</sub>
+
+[**Explore Animio ↗**](https://github.com/selinkubra/Animio)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [ReviewLens](https://github.com/selinWorks/reviewlens-feedback-analytics)
+
+<sub>**CUSTOMER FEEDBACK · ANALYTICS · IN DEVELOPMENT**</sub>
+
+A customer feedback analytics application focused on review exploration, sentiment analysis, and interactive visual reporting.
+
+**Built with**  
+<sub>Python · FastAPI · React · TypeScript · REST API</sub>
+
+[**Explore ReviewLens ↗**](https://github.com/selinWorks/reviewlens-feedback-analytics)
+
+</td>
+</tr>
 </table>
 
-<br>
-<p align="center">
-  <img src="assets/moon-divider.svg" alt="Divider" width="60%">
-</p>
+<p align="center"><img src="./assets/moon-divider.svg" alt="" width="85%" /></p>
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🌙 Featured Projects</h2>
+<p align="center"><img src="./assets/stack-heading.svg" alt="Tech Stack" width="100%" /></p>
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- ANIMIO CARD -->
-    <td width="50%" valign="top" style="border: 1px solid #241734; border-radius: 8px; background-color: #120D20; padding: 15px;">
-      <h3 align="left">🐾 Animio <code>In Development</code></h3>
-      <p><em>A pet care mobile application with AI-assisted features.</em></p>
-      <p>Designed to help pet parents track health routines, manage schedules, and receive smart care insights.</p>
-      <p>
-        <kbd>React Native</kbd> <kbd>TypeScript</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>Firebase</kbd> <kbd>Cloud Firestore</kbd> <kbd>OpenAI API</kbd>
-      </p>
-      <p align="right"><a href="https://github.com/selinWorks/Animio" target="_blank"><strong>Explore Repository ✦</strong></a></p>
-    </td>
-    <!-- REVIEWLENS CARD -->
-    <td width="50%" valign="top" style="border: 1px solid #241734; border-radius: 8px; background-color: #120D20; padding: 15px;">
-      <h3 align="left">🔮 ReviewLens <code>In Development</code></h3>
-      <p><em>A customer feedback analytics application.</em></p>
-      <p>Processes raw user reviews to provide structured sentiment metrics, analysis, and actionable product intelligence.</p>
-      <p>
-        <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>REST API</kbd>
-      </p>
-      <p align="right"><a href="https://github.com/selinWorks/ReviewLens" target="_blank"><strong>Explore Repository ✦</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center"><b>Languages</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,python,ts,js&theme=dark" alt="C sharp, Python, TypeScript, JavaScript" /></p>
 
-<br>
-<p align="center">
-  <img src="assets/moon-divider.svg" alt="Divider" width="60%">
-</p>
+<p align="center"><b>Web & Mobile</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React and React Native, Next.js, Tailwind CSS" /></p>
+<p align="center"><sub>React · React Native · Next.js · Tailwind CSS</sub></p>
 
-<!-- TECH STACK -->
-<h2 align="center">✦ Tech Stack</h2>
+<p align="center"><b>Backend</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,express&theme=dark" alt="ASP.NET Core, FastAPI, Flask, Node.js, Express.js" /></p>
 
-<p align="center">
-  <!-- JavaScript / TypeScript -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <!-- Frameworks & UI -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=09AFA9" />
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+<p align="center"><b>Data & Tools</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,firebase,git,github&theme=dark" alt="MySQL, Firebase, Git, GitHub" /></p>
+<p align="center"><sub>SQL Server · MySQL · Firebase · Cloud Firestore · Git · GitHub</sub></p>
 
-<p align="center">
-  <img src="assets/moon-divider.svg" alt="Divider" width="60%">
-</p>
+<p align="center"><img src="./assets/moon-divider.svg" alt="" width="85%" /></p>
 
-<!-- GITHUB ACTIVITY -->
-<h2 align="center">🌙 GitHub Activity</h2>
+<h2 align="center">✦ GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selinWorks&theme=dark&background=120D20&ring=D8B4E2&fire=E5A9B8&currStreakNum=D8B4E2" alt="Selin's GitHub Streak" width="75%">
-</p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=selinWorks&show_icons=true&hide_rank=true&hide_border=true&bg_color=191626&title_color=C4A7ED&icon_color=D9AFCA&text_color=D8CBE9" width="49%" alt="Selin's GitHub statistics" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=selinWorks&layout=compact&langs_count=6&hide_border=true&bg_color=191626&title_color=C4A7ED&text_color=D8CBE9" width="49%" alt="Languages used in public repositories" /></p>
+<p align="center"><sub>Statistics depend on the availability of the external image service. Language percentages describe public repository code, not proficiency.</sub></p>
 
-<p align="center">
-  <!-- Menghubungkan grafik kontribusi dynamic SVG GitHub -->
-  <img src="https://ghchart.oscarotero.com/selinWorks.svg?color=E5A9B8&bg=120D20&grid=241734" alt="Selin's GitHub Contribution Grid" width="85%">
-</p>
+<p align="center"><img src="./assets/moon-divider.svg" alt="" width="85%" /></p>
 
-<!-- FOOTER -->
-<br>
-<p align="center">
-  <sub>✦ Designed with starlight & code by Selin ✦</sub>
-</p>
+<h2 align="center">✦ Let's Connect</h2>
+<p align="center">Interested in web, mobile, or data-driven applications? Let's connect.</p>
+<p align="center"><a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-C3A3DD?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=251B35" /></a>&nbsp;<a href="https://github.com/selinWorks"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-selinWorks-D6AFCF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=251B35" /></a></p>
