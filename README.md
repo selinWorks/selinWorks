@@ -21,12 +21,19 @@
 <sub>USER-FRIENDLY INTERFACES   /   BACKEND SERVICES   /   DATA INSIGHTS</sub>
 </div>
 
-01 / About me
-I'm a Computer Engineering graduate interested in building useful applications across web and mobile, while expanding my skills in data analytics and machine learning.
-My internships gave me hands-on experience with ASP.NET Core MVC, Python, and React Native. Today, I'm putting that experience into Animio, a pet care mobile application, and ReviewLens, a customer feedback analytics application.
-I enjoy connecting intuitive interfaces with backend services—and turning ideas into practical projects.
+<hr/>
 
-02 / Selected projects
+<h2>01 / About me</h2>
+
+<p>I'm a <b>Computer Engineering graduate</b> interested in building useful applications across web and mobile, while expanding my skills in <b>data analytics and machine learning</b>.</p>
+
+<p>My internships gave me hands-on experience with <b>ASP.NET Core MVC, Python, and React Native</b>. Today, I'm putting that experience into <b>Animio</b>, a pet care mobile application, and <b>ReviewLens</b>, a customer feedback analytics application.</p>
+
+<p>I enjoy connecting intuitive interfaces with backend services—and turning ideas into practical projects.</p>
+
+
+<h2>02 / Selected projects</h2>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -63,9 +70,12 @@ I enjoy connecting intuitive interfaces with backend services—and turning idea
 </table>
 
 
-03 / My toolkit
-Technologies I work with across my projects and learning.
-Languages
+<h2>03 / My toolkit</h2>
+
+<p>Technologies I work with across my projects and learning.</p>
+
+<h4>Languages</h4>
+
 <p>
   <img src="https://img.shields.io/badge/C%23-6D5A96?style=flat-square" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-6D5A96?style=flat-square" alt="Python"/>
@@ -73,7 +83,8 @@ Languages
   <img src="https://img.shields.io/badge/JavaScript-6D5A96?style=flat-square" alt="JavaScript"/>
 </p>
 
-Web & Mobile
+<h4>Web & Mobile</h4>
+
 <p>
   <img src="https://img.shields.io/badge/React-6D5A96?style=flat-square" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-6D5A96?style=flat-square" alt="React Native"/>
@@ -81,7 +92,8 @@ Web & Mobile
   <img src="https://img.shields.io/badge/Tailwind_CSS-6D5A96?style=flat-square" alt="Tailwind CSS"/>
 </p>
 
-Backend
+<h4>Backend</h4>
+
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-6D5A96?style=flat-square" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/FastAPI-6D5A96?style=flat-square" alt="FastAPI"/>
@@ -90,7 +102,8 @@ Backend
   <img src="https://img.shields.io/badge/Express.js-6D5A96?style=flat-square" alt="Express.js"/>
 </p>
 
-Data & Tools
+<h4>Data & Tools</h4>
+
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-6D5A96?style=flat-square" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-6D5A96?style=flat-square" alt="MySQL"/>
@@ -100,6 +113,8 @@ Data & Tools
 </p>
 
 
-04 / Let's connect
-Interested in web, mobile, or data projects? I'd love to connect and exchange ideas.
+<h2>04 / Let's connect</h2>
+
+<p>Interested in web, mobile, or data projects? I'd love to connect and exchange ideas.</p>
+
 <a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Selin-7C5CFC?style=flat-square" alt="Selin on LinkedIn"/></a>
