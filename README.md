@@ -1,97 +1,135 @@
-<p align="center"><img src="./assets/cover.svg" width="100%" alt="Hi, I'm Selin — Computer Engineering Graduate"/></p>
-<p align="center"><img src="./assets/typing.svg" width="580" alt="Web and Mobile Developer · Exploring Data Analytics"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Connect-B69AE5?style=flat-square&amp;labelColor=252035" alt="Connect on LinkedIn"/></a>
-&nbsp;
-<a href="https://github.com/selinWorks?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-D9AFCA?style=flat-square&amp;labelColor=252035" alt="Explore my repositories"/></a>
-</p>
+<div align="center">
 
-<br/>
+# ✦ Hi, I'm Selin ✦
 
-<h2>✦ About me</h2>
+### Computer Engineering Graduate · Web & Mobile Developer · Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=B9A2F5&center=true&vCenter=true&width=600&lines=Building+thoughtful+digital+experiences;Exploring+software%2C+data+and+machine+learning;Learning%2C+creating%2C+improving" alt="Animated introduction" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-181525?style=for-the-badge&logo=github&logoColor=C7B4F8)](https://github.com/selinWorks)
+
+</div>
+
+---
+
+## ୨ৎ About Me
+
+```typescript
+const selin = {
+  background: "Computer Engineering",
+  interests: ["Web Development", "Mobile Development", "Machine Learning"],
+  experience: ["ASP.NET Core MVC", "Python", "React Native"],
+  currentlyBuilding: "ReviewLens · Customer Feedback Analytics",
+  approach: "Keep learning. Build with purpose."
+};
+```
+
+I'm a **Computer Engineering graduate** who enjoys turning ideas into useful software. Through internships and personal projects, I've gained hands-on experience in **web development**, **mobile applications**, and **Python-based development**.
+
+Currently, I'm expanding my skills through practical projects, with a growing interest in **data analytics and machine learning**.
+
+---
+
+## ✧ Featured Projects
+
 <table>
 <tr>
-<td width="62%" valign="middle">
-<p>I'm a <b>Computer Engineering graduate</b> interested in web and mobile development, data analytics, and machine learning.</p>
-<p>Through my internships, I gained hands-on experience with <b>ASP.NET Core MVC, Python, and React Native</b>.</p>
-<p>Currently building <b>Animio</b>, a pet care mobile application, and <b>ReviewLens</b>, a customer feedback analytics application.</p>
-<p>I enjoy connecting intuitive interfaces with backend services and data-driven insights.</p>
+<td width="50%" valign="top">
+
+### 🔮 ReviewLens
+**Customer Feedback Analytics**
+
+A full-stack project in active development, designed to explore customer reviews, examine sentiment, and visualize feedback trends.
+
+`Python` `FastAPI` `React` `Data Analytics`
+
+[Explore repositories →](https://github.com/selinWorks?tab=repositories)
+
 </td>
-<td width="38%" align="center" valign="middle"><img src="./assets/workspace.svg" width="320" alt="Lavender workspace illustration with a monitor, moonlit window, coffee and a sleeping cat"/></td>
+<td width="50%" valign="top">
+
+### 🐾 Pet Care Application
+**Mobile App Development**
+
+A pet-care application project focused on organizing pet profiles, care schedules, and everyday pet management experiences.
+
+`React Native` `Mobile UI` `App Development`
+
+[Explore repositories →](https://github.com/selinWorks?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CinemaHub
+**Software Project**
+
+A cinema-themed project from my development portfolio.
+
+[Explore repositories →](https://github.com/selinWorks?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More Projects
+**Experiments & Learning**
+
+Explore more of my work across software development and machine learning.
+
+[View all repositories →](https://github.com/selinWorks?tab=repositories)
+
+</td>
 </tr>
 </table>
 
-<br/>
+---
 
-<h2>✦ Selected work</h2>
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/selinkubra/Animio"><img src="./assets/animio.svg" width="100%" alt="Animio · Pet Care Mobile App · In development"/></a></td>
-<td width="50%"><a href="https://github.com/selinWorks/reviewlens-feedback-analytics"><img src="./assets/reviewlens.svg" width="100%" alt="ReviewLens · Customer Feedback Analytics · In development"/></a></td>
-</tr>
-<tr>
-<td valign="top"><p>Pet care management with <b>AI-assisted support</b>, rule-based risk assessment, and contextual guidance through the OpenAI API.</p></td>
-<td valign="top"><p>Customer feedback analytics being developed for <b>review exploration, sentiment analysis, and interactive visual reporting</b>.</p></td>
-</tr>
-<tr>
-<td valign="top"><sub>React Native · TypeScript · Node.js · Express.js<br/>Firebase · Cloud Firestore · OpenAI API</sub></td>
-<td valign="top"><sub>Python · FastAPI · React<br/>TypeScript · REST API</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/selinkubra/Animio"><b>View Animio ↗</b></a></td>
-<td><a href="https://github.com/selinWorks/reviewlens-feedback-analytics"><b>View ReviewLens ↗</b></a></td>
-</tr>
-</table>
+## ⌘ Tech Stack
 
-<br/>
+**Languages**
 
-<h2>✦ Tools &amp; technologies</h2>
-<p>Technologies I use across my projects and learning.</p>
-<h4>Languages</h4>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" title="C#"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript"/> &nbsp;
-</p>
-<p><sub>C# · Python · TypeScript · JavaScript</sub></p>
-<h4>Web &amp; Mobile</h4>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="44" height="44" alt="React / React Native" title="React / React Native"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="44" height="44" alt="Next.js" title="Next.js"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS"/> &nbsp;
-</p>
-<p><sub>React / React Native · Next.js · Tailwind CSS</sub></p>
-<h4>Backend</h4>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="44" height="44" alt="ASP.NET Core" title="ASP.NET Core"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="44" height="44" alt="Flask" title="Flask"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" title="Node.js"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="44" height="44" alt="Express.js" title="Express.js"/> &nbsp;
-</p>
-<p><sub>ASP.NET Core · FastAPI · Flask · Node.js · Express.js</sub></p>
-<h4>Data &amp; Tools</h4>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" height="44" alt="SQL Server" title="SQL Server"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase" title="Firebase"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="44" height="44" alt="GitHub" title="GitHub"/> &nbsp;
-</p>
-<p><sub>SQL Server · MySQL · Firebase · Git · GitHub</sub></p>
+![Python](https://img.shields.io/badge/Python-29213F?style=flat-square&logo=python&logoColor=C5B4F4) ![C#](https://img.shields.io/badge/C%23-29213F?style=flat-square&logo=csharp&logoColor=C5B4F4) ![JavaScript](https://img.shields.io/badge/JavaScript-29213F?style=flat-square&logo=javascript&logoColor=C5B4F4)
 
-<br/>
+**Web & Backend**
 
-<h2>✦ GitHub activity</h2>
-<p align="center">
-<a href="https://github.com/selinWorks"><img src="https://github-stats-extended.vercel.app/api?username=selinWorks&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=191626&amp;title_color=C4A7ED&amp;icon_color=D9AFCA&amp;text_color=D8CBE9&amp;border_radius=16&amp;card_width=420" width="49%" alt="SelinWorks public GitHub statistics"/></a>
-<a href="https://github.com/selinWorks?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=selinWorks&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=191626&amp;title_color=C4A7ED&amp;text_color=D8CBE9&amp;border_radius=16&amp;card_width=420" width="49%" alt="Language distribution across SelinWorks public repositories"/></a>
-</p>
-<p align="center"><sub>Language distribution reflects public repository code.</sub></p>
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-29213F?style=flat-square&logo=dotnet&logoColor=C5B4F4) ![React](https://img.shields.io/badge/React-29213F?style=flat-square&logo=react&logoColor=C5B4F4) ![FastAPI](https://img.shields.io/badge/FastAPI-29213F?style=flat-square&logo=fastapi&logoColor=C5B4F4)
 
-<br/>
+**Mobile & Tools**
 
-<h2>✦ Let's connect</h2>
-<p>Let's connect to talk about web development, mobile applications, and data.</p>
-<a href="https://www.linkedin.com/in/selin-kübra-şimşek/"><img src="https://img.shields.io/badge/LinkedIn-Selin-B69AE5?style=for-the-badge&amp;labelColor=252035" alt="Selin on LinkedIn"/></a>
+![React Native](https://img.shields.io/badge/React_Native-29213F?style=flat-square&logo=react&logoColor=C5B4F4) ![Git](https://img.shields.io/badge/Git-29213F?style=flat-square&logo=git&logoColor=C5B4F4) ![GitHub](https://img.shields.io/badge/GitHub-29213F?style=flat-square&logo=github&logoColor=C5B4F4) ![VS Code](https://img.shields.io/badge/VS_Code-29213F?style=flat-square&logo=visualstudiocode&logoColor=C5B4F4)
+
+---
+
+## ☾ Currently Exploring
+
+- Building **ReviewLens**, a customer-feedback analytics application.
+- Developing practical **mobile application** skills.
+- Deepening my knowledge of **data analytics and machine learning**.
+
+---
+
+## ◈ GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=selinWorks&show_icons=true&hide_border=true&bg_color=10101B&title_color=C5B4F4&text_color=E7DFFA&icon_color=8B73CE" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinWorks&layout=compact&hide_border=true&bg_color=10101B&title_color=C5B4F4&text_color=E7DFFA" alt="Most used repository languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=selinWorks&bg_color=10101B&color=C5B4F4&line=8B73CE&point=F3EDFF&area=true&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✧ Let's Connect
+
+Open to connecting with developers, sharing ideas, and exploring new opportunities.
+
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-29213F?style=for-the-badge&logo=github&logoColor=C5B4F4)](https://github.com/selinWorks)
+
+<sub>✦ Building, learning, and growing one project at a time. ✦</sub>
+
+</div>
