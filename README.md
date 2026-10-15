@@ -197,8 +197,6 @@ Currently, I'm developing **Animio** and **ReviewLens**, exploring different asp
 
 <!-- DEVELOPMENT ACTIVITY -->
 
-<h3 align="center">✧ Development Activity</h3>
-
 <p align="center">
   <img
     src="./assets/development-activity.svg"
@@ -207,27 +205,29 @@ Currently, I'm developing **Animio** and **ReviewLens**, exploring different asp
   />
 </p>
 
-<!-- GITHUB STATISTICS -->
+<!-- GITHUB INSIGHTS -->
 
-<h3 align="center">✧ GitHub Statistics</h3>
+<h3 align="center">✧ The Coding Atlas</h3>
+
+<p align="center">
+  <sub>
+    A closer look at my GitHub statistics and language distribution.
+  </sub>
+</p>
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=selinWorks&show_icons=true&hide_rank=true&hide_border=true&bg_color=191626&title_color=C4A7ED&icon_color=D9AFCA&text_color=D8CBE9"
-    width="49%"
-    alt="Selin's GitHub statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=selinWorks&layout=compact&langs_count=6&hide_border=true&bg_color=191626&title_color=C4A7ED&text_color=D8CBE9"
-    width="49%"
-    alt="Languages used in public repositories"
+    src="./assets/github-insights.svg"
+    alt="Selin's GitHub statistics and language distribution"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <sub>
-    Activity and statistics reflect available GitHub data.
-    Statistics depend on external visualization services.
+    GitHub activity and language statistics are based on available
+    repository data. Language percentages represent repository
+    code distribution rather than programming proficiency.
   </sub>
 </p>
 
