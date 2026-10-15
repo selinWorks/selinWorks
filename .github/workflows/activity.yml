@@ -1,5 +1,5 @@
 
-name: Generate Development Activity
+name: Generate GitHub Analytics
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  generate-activity:
+  generate-analytics:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,21 +22,27 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate activity graph
+      - name: Generate Development Activity
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_activity.py
 
-      - name: Commit and push generated graph
+      - name: Generate GitHub Insights
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_insights.py
+
+      - name: Commit and push generated graphics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/development-activity.svg
+          git add assets/github-insights.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update development activity graph"
+            git commit -m "chore: update GitHub analytics graphics"
             git push
           fi
