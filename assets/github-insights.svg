@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430" role="img" aria-label="GitHub statistics and language distribution">
+<rect width="960" height="430" rx="20" fill="#191626"/>
+<circle cx="864" cy="37" r="2" fill="#CDB3E7"/>
+<circle cx="892" cy="65" r="1.5" fill="#CDB3E7"/>
+<circle cx="923" cy="42" r="1.5" fill="#CDB3E7"/>
+<circle cx="824" cy="72" r="1" fill="#CDB3E7"/>
+<circle cx="899" cy="53" r="21" fill="#A987CE"/>
+<circle cx="909" cy="45" r="20" fill="#191626"/>
+<text x="42" y="49" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="bold" fill="#C4A7ED" text-anchor="start">THE CODING ATLAS</text>
+<text x="42" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">A constellation of code and creativity</text>
+<line x1="42" y1="98" x2="918" y2="98" stroke="#403052" stroke-width="1"/>
+<text x="48" y="139" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#C4A7ED" text-anchor="start">GITHUB AT A GLANCE</text>
+<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">119</text>
+<text x="158" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Commits / last 12 months</text>
+<text x="54" y="243" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">4</text>
+<text x="158" y="241" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Stars on public repositories</text>
+<text x="54" y="296" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">7</text>
+<text x="158" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Public repositories</text>
+<text x="54" y="349" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">0</text>
+<text x="158" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Pull requests / last 12 months</text>
+<line x1="460" y1="122" x2="460" y2="355" stroke="#403052" stroke-width="1"/>
+<text x="492" y="139" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#C4A7ED" text-anchor="start">LANGUAGE UNIVERSE</text>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#332842" stroke-width="20"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#C4A7ED" stroke-width="20" stroke-dasharray="231.288 227.384" stroke-dashoffset="-0.000" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#8966C0" stroke-width="20" stroke-dasharray="154.383 304.290" stroke-dashoffset="-231.288" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#E3B5D5" stroke-width="20" stroke-dasharray="43.060 415.612" stroke-dashoffset="-385.671" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#8D80B2" stroke-width="20" stroke-dasharray="20.041 438.631" stroke-dashoffset="-428.731" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#5E526F" stroke-width="20" stroke-dasharray="9.901 448.772" stroke-dashoffset="-448.772" transform="rotate(-90 612 249)"/>
+<text x="612" y="246" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#EADBF6" text-anchor="middle">CODE</text>
+<text x="612" y="267" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" fill="#AFA1BF" text-anchor="middle">LANGUAGES</text>
+<circle cx="735" cy="179" r="5" fill="#C4A7ED"/>
+<text x="748" y="184" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">Jupyter Notebook</text>
+<text x="916" y="184" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">50.4%</text>
+<circle cx="735" cy="218" r="5" fill="#8966C0"/>
+<text x="748" y="223" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">TypeScript</text>
+<text x="916" y="223" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">33.7%</text>
+<circle cx="735" cy="257" r="5" fill="#E3B5D5"/>
+<text x="748" y="262" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">Python</text>
+<text x="916" y="262" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">9.4%</text>
+<circle cx="735" cy="296" r="5" fill="#8D80B2"/>
+<text x="748" y="301" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">JavaScript</text>
+<text x="916" y="301" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">4.4%</text>
+<circle cx="735" cy="335" r="5" fill="#5E526F"/>
+<text x="748" y="340" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">Other</text>
+<text x="916" y="340" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">2.2%</text>
+<line x1="42" y1="380" x2="918" y2="380" stroke="#403052" stroke-width="1"/>
+<text x="46" y="405" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="#AFA1BF" text-anchor="start">SELINWORKS  /  GITHUB INSIGHTS</text>
+<text x="915" y="405" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" fill="#AFA1BF" text-anchor="end">Updated Oct 2026</text>
+</svg>
