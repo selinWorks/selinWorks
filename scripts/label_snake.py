@@ -1,76 +1,75 @@
-"""Add calendar labels to the animated Platane/snk SVG without relying on rect elements."""
+"""Add calendar labels to the animated Platane/snk SVG without changing its animation."""
+from collections import Counter
 from datetime import date, timedelta
 from pathlib import Path
 import re
 import xml.etree.ElementTree as ET
 
-path = Path('dist/github-contribution-grid-snake-dark.svg')
-ns = 'http://www.w3.org/2000/svg'
-ET.register_namespace('', ns)
-def tag(name): return f'{{{ns}}}{name}'
-def dimension(s):
-    m = re.search(r'-?\d+(?:\.\d+)?', s or '')
-    if not m: raise ValueError(f'Invalid SVG dimension: {s!r}')
-    return float(m.group())
+FILE = Path('dist/github-contribution-grid-snake-dark.svg')
+NS = 'http://www.w3.org/2000/svg'
+ET.register_namespace('', NS)
+root = ET.parse(FILE).getroot()
 
-tree = ET.parse(path)
-root = tree.getroot()
-viewbox = root.get('viewBox')
-if viewbox:
-    x0, y0, width, height = map(float, re.split(r'[\s,]+', viewbox.strip()))
+def tag(name):
+    return f'{{{NS}}}{name}'
+
+def num(value):
+    return float(re.match(r'[-+]?\d+(?:\.\d+)?', value).group())
+
+# Read the actual contribution cells, not the SVG height (which includes snake motion).
+cells = [el for el in root.iter(tag('rect')) if 'c' in el.get('class', '').split() and el.get('x') is not None and el.get('y') is not None]
+xs = sorted(set(num(el.get('x')) for el in cells))
+ys = sorted(set(num(el.get('y')) for el in cells))
+if len(xs) < 52 or len(ys) != 7:
+    raise ValueError(f'Unexpected contribution grid: {len(xs)} columns, {len(ys)} rows')
+step_x = min(b-a for a,b in zip(xs,xs[1:]))
+step_y = min(b-a for a,b in zip(ys,ys[1:]))
+cell_size = min(step_x, step_y) - 4  # snk uses 12px cells with 16px pitch
+
+view = root.get('viewBox')
+if view:
+    _, _, original_w, original_h = map(float, re.split(r'[ ,]+', view.strip()))
 else:
-    x0 = y0 = 0.0
-    width, height = dimension(root.get('width')), dimension(root.get('height'))
+    original_w, original_h = num(root.get('width')), num(root.get('height'))
 
-# snk uses a 53-column, 7-row calendar. Its SVG can draw cells as paths,
-# so scanning for <rect> elements is not reliable. The animation also
-# reserves vertical space beneath the calendar: never use height / 7.
-columns = 53
-pitch = width / columns
-left, top, bottom = 48.0, 32.0, 42.0
+LEFT, TOP, BOTTOM = 44.0, 30.0, 28.0
+original_children = list(root)
+for child in original_children:
+    root.remove(child)
+wrapper = ET.SubElement(root, tag('g'), {'transform': f'translate({LEFT:g},{TOP:g})'})
+for child in original_children:
+    wrapper.append(child)
+root.set('viewBox', f'0 0 {original_w+LEFT:g} {original_h+TOP+BOTTOM:g}')
+root.set('width', f'{original_w+LEFT:g}')
+root.set('height', f'{original_h+TOP+BOTTOM:g}')
 
-# Put the existing animated artwork in a translated group, preserving
-# all original animation elements and attributes.
-original = list(root)
-for child in original: root.remove(child)
-group = ET.SubElement(root, tag('g'), {'transform': f'translate({left-x0:g},{top-y0:g})'})
-for child in original: group.append(child)
-root.set('viewBox', f'0 0 {width+left:.2f} {height+top+bottom:.2f}')
-root.set('width', f'{width+left:.0f}')
-root.set('height', f'{height+top+bottom:.0f}')
+style = {'fill': '#C9B1E5', 'font-family': 'Arial, sans-serif', 'font-size': '12'}
+def text(value, x, y):
+    el = ET.SubElement(root, tag('text'), {'x': f'{x:.2f}', 'y': f'{y:.2f}', **style})
+    el.text = value
 
-def label(value, x, y):
-    e = ET.SubElement(root, tag('text'), {
-        'x': f'{x:.2f}', 'y': f'{y:.2f}',
-        'fill': '#C9B1E5', 'font-family': 'Arial, sans-serif',
-        'font-size': '12'
-    })
-    e.text = value
-
-# Calendar columns run Sunday through Saturday. The last column is the
-# current week, with its Sunday at the start.
+# 53 columns: oldest Sunday on the left, newest week on the right.
 today = date.today()
-this_sunday = today - timedelta(days=(today.weekday()+1) % 7)
-first_sunday = this_sunday - timedelta(weeks=columns-1)
-previous = None
-for week in range(columns):
-    d = first_sunday + timedelta(weeks=week)
-    current = (d.year, d.month)
-    if current != previous and week < columns-1:
-        label(d.strftime('%b'), left + week*pitch + 2, 19)
-    previous = current
+last_sunday = today - timedelta(days=(today.weekday()+1) % 7)
+first_sunday = last_sunday - timedelta(weeks=len(xs)-1)
+last_month = None
+for i, x in enumerate(xs):
+    week = first_sunday + timedelta(weeks=i)
+    key = (week.year, week.month)
+    if key != last_month:
+        if i < len(xs)-1:
+            text(week.strftime('%b'), LEFT + x, 19)
+        last_month = key
 
-# Row 0 = Sunday, row 1 = Monday, etc.
 for name, row in [('Mon', 1), ('Wed', 3), ('Fri', 5)]:
-    label(name, 5, top + (row + 0.5)*pitch + 4)
+    text(name, 3, TOP + ys[row] + cell_size / 2 + 4)
 
-legend_y = top + 7*pitch + 31
-label('Less', left, legend_y)
-for i, color in enumerate(['#16121F', '#403052', '#725494', '#A987CE', '#E0BCEB']):
-    ET.SubElement(root, tag('rect'), {
-        'x': f'{left+36+i*18:.2f}', 'y': f'{legend_y-11:.2f}',
-        'width': '13', 'height': '13', 'rx': '3', 'fill': color
-    })
-label('More', left+133, legend_y)
-tree.write(path, encoding='utf-8', xml_declaration=True)
-print('Added calendar labels and legend without scanning SVG rectangles')
+legend_y = TOP + ys[-1] + cell_size + 27
+text('Less', LEFT + xs[0], legend_y)
+colors = ['#16121F', '#403052', '#725494', '#A987CE', '#E0BCEB']
+for i, color in enumerate(colors):
+    ET.SubElement(root, tag('rect'), {'x': f'{LEFT+xs[0]+36+i*18:.2f}', 'y': f'{legend_y-11:.2f}', 'width': '13', 'height': '13', 'rx': '3', 'fill': color})
+text('More', LEFT + xs[0] + 133, legend_y)
+
+ET.ElementTree(root).write(FILE, encoding='utf-8', xml_declaration=True)
+print(f'Calendar labels added: {len(xs)} columns, {len(ys)} rows')
