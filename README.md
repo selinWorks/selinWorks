@@ -195,14 +195,14 @@ Currently, I'm developing **Animio** and **ReviewLens**, exploring different asp
   </sub>
 </p>
 
-<!-- DEVELOPMENT ACTIVITY GRAPH -->
+<!-- DEVELOPMENT ACTIVITY -->
 
 <h3 align="center">✧ Development Activity</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=selinWorks&bg_color=191626&color=D8CBE9&title_color=C4A7ED&line=A987CE&point=E0BCEB&area_color=725494&area=true&hide_border=true&radius=12&height=300"
-    alt="Selin's GitHub development activity graph"
+    src="./assets/development-activity.svg"
+    alt="Selin's GitHub development activity"
     width="100%"
   />
 </p>
@@ -226,8 +226,8 @@ Currently, I'm developing **Animio** and **ReviewLens**, exploring different asp
 
 <p align="center">
   <sub>
-    Activity and statistics are generated from available GitHub data
-    and depend on external visualization services.
+    Activity and statistics reflect available GitHub data.
+    Statistics depend on external visualization services.
   </sub>
 </p>
 
