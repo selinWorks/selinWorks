@@ -235,27 +235,4 @@ Currently, I'm developing **Animio** and **ReviewLens**, exploring different asp
   <img src="./assets/moon-divider.svg" alt="" width="85%" />
 </p>
 
-<!-- CONNECT -->
 
-<h2 align="center">✦ Let's Connect</h2>
-
-<p align="center">
-  Interested in web, mobile, or data-driven applications?
-  Let's connect.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/selin-kübra-şimşek/">
-    <img
-      alt="Connect on LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Connect-C3A3DD?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=251B35"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/selinWorks">
-    <img
-      alt="GitHub profile"
-      src="https://img.shields.io/badge/GitHub-selinWorks-D6AFCF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=251B35"
-    />
-  </a>
-</p>
