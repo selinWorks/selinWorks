@@ -11,36 +11,36 @@
 <line x1="58" y1="258.0" x2="855" y2="258.0" stroke="#403052" stroke-width="1"/>
 <text x="45" y="262.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">0</text>
 <line x1="58" y1="217.0" x2="855" y2="217.0" stroke="#403052" stroke-width="1"/>
-<text x="45" y="221.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">16</text>
+<text x="45" y="221.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">17</text>
 <line x1="58" y1="176.0" x2="855" y2="176.0" stroke="#403052" stroke-width="1"/>
-<text x="45" y="180.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">32</text>
+<text x="45" y="180.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">34</text>
 <line x1="58" y1="135.0" x2="855" y2="135.0" stroke="#403052" stroke-width="1"/>
-<text x="45" y="139.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">49</text>
+<text x="45" y="139.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">50</text>
 <line x1="58" y1="94.0" x2="855" y2="94.0" stroke="#403052" stroke-width="1"/>
-<text x="45" y="98.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">65</text>
-<path d="M 58.0 247.9 L 130.5 245.4 L 202.9 159.6 L 275.4 258.0 L 347.8 245.4 L 420.3 247.9 L 492.7 253.0 L 565.2 258.0 L 637.6 258.0 L 710.1 245.4 L 782.5 174.7 L 855.0 94.0 L 855.0 258 L 58.0 258 Z" fill="url(#area)"/>
-<path d="M 58.0 247.9 L 130.5 245.4 L 202.9 159.6 L 275.4 258.0 L 347.8 245.4 L 420.3 247.9 L 492.7 253.0 L 565.2 258.0 L 637.6 258.0 L 710.1 245.4 L 782.5 174.7 L 855.0 94.0" fill="none" stroke="#C4A7ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="58.0" cy="247.9" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<text x="45" y="98.0" text-anchor="end" fill="#AFA1BF" font-size="11" font-family="Arial">67</text>
+<path d="M 58.0 248.2 L 130.5 245.8 L 202.9 162.5 L 275.4 258.0 L 347.8 245.8 L 420.3 248.2 L 492.7 253.1 L 565.2 258.0 L 637.6 258.0 L 710.1 245.8 L 782.5 177.2 L 855.0 94.0 L 855.0 258 L 58.0 258 Z" fill="url(#area)"/>
+<path d="M 58.0 248.2 L 130.5 245.8 L 202.9 162.5 L 275.4 258.0 L 347.8 245.8 L 420.3 248.2 L 492.7 253.1 L 565.2 258.0 L 637.6 258.0 L 710.1 245.8 L 782.5 177.2 L 855.0 94.0" fill="none" stroke="#C4A7ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="58.0" cy="248.2" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="58.0" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Nov</text>
-<circle cx="130.5" cy="245.4" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="130.5" cy="245.8" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="130.5" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Dec</text>
-<circle cx="202.9" cy="159.6" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="202.9" cy="162.5" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="202.9" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Jan</text>
 <circle cx="275.4" cy="258.0" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="275.4" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Feb</text>
-<circle cx="347.8" cy="245.4" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="347.8" cy="245.8" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="347.8" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Mar</text>
-<circle cx="420.3" cy="247.9" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="420.3" cy="248.2" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="420.3" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Apr</text>
-<circle cx="492.7" cy="253.0" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="492.7" cy="253.1" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="492.7" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">May</text>
 <circle cx="565.2" cy="258.0" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="565.2" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Jun</text>
 <circle cx="637.6" cy="258.0" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="637.6" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Jul</text>
-<circle cx="710.1" cy="245.4" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="710.1" cy="245.8" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="710.1" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Aug</text>
-<circle cx="782.5" cy="174.7" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
+<circle cx="782.5" cy="177.2" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="782.5" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Sep</text>
 <circle cx="855.0" cy="94.0" r="4" fill="#E0BCEB" stroke="#191626" stroke-width="2"/>
 <text x="855.0" y="285" text-anchor="middle" fill="#C9B1E5" font-size="12" font-family="Arial">Oct</text>
