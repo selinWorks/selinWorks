@@ -10,7 +10,7 @@
 <text x="42" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">A constellation of code and creativity</text>
 <line x1="42" y1="98" x2="918" y2="98" stroke="#403052" stroke-width="1"/>
 <text x="48" y="139" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#C4A7ED" text-anchor="start">GITHUB AT A GLANCE</text>
-<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">159</text>
+<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">162</text>
 <text x="158" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Commits / last 12 months</text>
 <text x="54" y="243" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">9</text>
 <text x="158" y="241" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Stars on public repositories</text>
@@ -21,22 +21,22 @@
 <line x1="460" y1="122" x2="460" y2="355" stroke="#403052" stroke-width="1"/>
 <text x="492" y="139" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#C4A7ED" text-anchor="start">LANGUAGE UNIVERSE</text>
 <circle cx="612" cy="249" r="73" fill="none" stroke="#332842" stroke-width="20"/>
-<circle cx="612" cy="249" r="73" fill="none" stroke="#C4A7ED" stroke-width="20" stroke-dasharray="221.572 237.100" stroke-dashoffset="-0.000" transform="rotate(-90 612 249)"/>
-<circle cx="612" cy="249" r="73" fill="none" stroke="#8966C0" stroke-width="20" stroke-dasharray="156.835 301.837" stroke-dashoffset="-221.572" transform="rotate(-90 612 249)"/>
-<circle cx="612" cy="249" r="73" fill="none" stroke="#E3B5D5" stroke-width="20" stroke-dasharray="49.313 409.360" stroke-dashoffset="-378.407" transform="rotate(-90 612 249)"/>
-<circle cx="612" cy="249" r="73" fill="none" stroke="#8D80B2" stroke-width="20" stroke-dasharray="19.402 439.271" stroke-dashoffset="-427.720" transform="rotate(-90 612 249)"/>
-<circle cx="612" cy="249" r="73" fill="none" stroke="#5E526F" stroke-width="20" stroke-dasharray="11.550 447.122" stroke-dashoffset="-447.122" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#C4A7ED" stroke-width="20" stroke-dasharray="220.681 237.991" stroke-dashoffset="-0.000" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#8966C0" stroke-width="20" stroke-dasharray="158.049 300.624" stroke-dashoffset="-220.681" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#E3B5D5" stroke-width="20" stroke-dasharray="49.115 409.558" stroke-dashoffset="-378.730" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#8D80B2" stroke-width="20" stroke-dasharray="19.324 439.349" stroke-dashoffset="-427.845" transform="rotate(-90 612 249)"/>
+<circle cx="612" cy="249" r="73" fill="none" stroke="#5E526F" stroke-width="20" stroke-dasharray="11.504 447.168" stroke-dashoffset="-447.168" transform="rotate(-90 612 249)"/>
 <text x="612" y="246" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#EADBF6" text-anchor="middle">CODE</text>
 <text x="612" y="267" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" fill="#AFA1BF" text-anchor="middle">LANGUAGES</text>
 <circle cx="735" cy="179" r="5" fill="#C4A7ED"/>
 <text x="748" y="184" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">Jupyter Notebook</text>
-<text x="916" y="184" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">48.3%</text>
+<text x="916" y="184" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">48.1%</text>
 <circle cx="735" cy="218" r="5" fill="#8966C0"/>
 <text x="748" y="223" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">TypeScript</text>
-<text x="916" y="223" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">34.2%</text>
+<text x="916" y="223" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">34.5%</text>
 <circle cx="735" cy="257" r="5" fill="#E3B5D5"/>
 <text x="748" y="262" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">Python</text>
-<text x="916" y="262" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">10.8%</text>
+<text x="916" y="262" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">10.7%</text>
 <circle cx="735" cy="296" r="5" fill="#8D80B2"/>
 <text x="748" y="301" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" fill="#EADBF6" text-anchor="start">JavaScript</text>
 <text x="916" y="301" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#C4A7ED" text-anchor="end">4.2%</text>
