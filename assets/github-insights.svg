@@ -10,7 +10,7 @@
 <text x="42" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">A constellation of code and creativity</text>
 <line x1="42" y1="98" x2="918" y2="98" stroke="#403052" stroke-width="1"/>
 <text x="48" y="139" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#C4A7ED" text-anchor="start">GITHUB AT A GLANCE</text>
-<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">166</text>
+<text x="54" y="190" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">164</text>
 <text x="158" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Commits / last 12 months</text>
 <text x="54" y="243" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="#EADBF6" text-anchor="start">9</text>
 <text x="158" y="241" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" fill="#AFA1BF" text-anchor="start">Stars on public repositories</text>
